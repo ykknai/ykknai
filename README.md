@@ -4,7 +4,7 @@
 
 ###
 
-<caption style="font-size: 64px" align="left"><strong>< ykknai ></strong></caption>
+<caption style="font-size: "64px"" align="left"><strong>< ykknai ></strong></caption>
 
 ###
 
