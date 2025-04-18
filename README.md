@@ -1,10 +1,8 @@
-<br clear="both">
-
 <img align="left" height="200" src="https://i.pinimg.com/736x/ed/6a/73/ed6a731a60b93904d43a5305559abf07.jpg"  />
 
 ###
 
-<caption style="font-size: "64px"" align="left"><strong>< ykknai ></strong></caption>
+<h1 align="left">< ykknai ></h1>
 
 ###
 
