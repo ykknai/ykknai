@@ -1,4 +1,4 @@
-<h1 align="left">&lt; ykknai /&gt; Sebastián Ugalde</h1> 
+<h1 align="left">Sebastián Ugalde &lt; ykknai /&gt; </h1> 
 
 ---
 
