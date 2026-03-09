@@ -4,7 +4,7 @@
 
 ## Técnico en Informática
 
-<h3>21 años | Chile 🇨🇱 | UTFSM <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_UTFSM.png" width="25"> UTFSM </h3>
+<h3>21 años | Chile 🇨🇱 | UTFSM <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_UTFSM.png](https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png)" width="25"> </h3>
 
 <p>
 Me gusta el desarrollo de software. 
