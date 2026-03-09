@@ -1,15 +1,28 @@
-<h1 align="left">< ykknai ></h1>
+<h1 align="left">&lt; ykknai /&gt;</h1>
 
-###
+---
 
-<br clear="both">
+## Técnico en Informática
 
-<h2 align="left">20y  |  CL | UTFSM<br>Exploring the dev world and working hard to learn.</h2>
+<h3>21 años | Chile 🇨🇱 | UTFSM <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_UTFSM.png" width="25"> UTFSM </h3>
 
-###
+<p>
+Me gusta el desarrollo de software. 
+Estudiando y trabajando para seguir mejorando mis hablidades
+técnicas de programación y lograr un crecimiento en mi desarrollo
+como desarrollador.
+</p>
 
-<br clear="both">
+<p>
+Me interesa el desarrollo de nuevas ideas
+y la exploración de tecnologías modernas que me permitan ampliar mis
+conocimientos y mejorar mi rendimiento.
+</p>
 
+---
 
+### Sobre mí
 
-###
+-  Me gusta ayudar a mis pares en lo que pueda aportar.
+-  Apasionado por seguir avanzando en las nuevas tecnologías.
+-  Creo proyectos para experimentar distintas herramientas y entornos.
