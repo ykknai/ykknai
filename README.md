@@ -31,8 +31,8 @@ conocimientos y mejorar mi rendimiento.
 
 ---
 
-### Tecnologías conocidas
-
+### <h1 align="center">Tecnologías conocidas</h1>
+---
 <div align="center">
     <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
