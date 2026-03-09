@@ -30,7 +30,9 @@ conocimientos y mejorar mi rendimiento.
 -  Creo proyectos para experimentar distintas herramientas y entornos.
 
 ---
-## Tecnologías conocidas
+
+### Tecnologías conocidas
+
 <div align="center">
     <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
